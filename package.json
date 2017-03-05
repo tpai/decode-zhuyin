@@ -1,5 +1,5 @@
 {
-  "name": "@tpai/decode-zhuyin",
+  "name": "decode-zhuyin",
   "version": "1.0.0",
   "description": "Decode Zhuyin password from Chinese words",
   "main": "index.js",
