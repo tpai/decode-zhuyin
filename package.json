@@ -1,0 +1,29 @@
+{
+  "name": "@tpai/decode-zhuyin",
+  "version": "1.0.0",
+  "description": "Decode Zhuyin password from Chinese words",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpai/decode-zhuyin.git"
+  },
+  "keywords": [
+    "decode",
+    "zhuyin"
+  ],
+  "author": "Tony Pai <tony77794@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/tpai/decode-zhuyin/issues"
+  },
+  "homepage": "https://github.com/tpai/decode-zhuyin#readme"
+}
