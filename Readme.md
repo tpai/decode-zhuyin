@@ -1,6 +1,6 @@
 # Decode Zhuyin
 
-Decode Chinese words to Zhuyin password.
+Zhuyin is a bunch of symbol for transliterating Chinese word, most of Taiwanese people choose one sentence or few words, and map the Zhuyin position of keyboard to get meaning less characters as their password which is hard to remember, so that's what `decode-zhuyin` does.
 
 ## Features
 
