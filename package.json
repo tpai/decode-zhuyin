@@ -2,6 +2,7 @@
   "name": "decode-zhuyin",
   "version": "1.0.1",
   "description": "Decode Zhuyin password from Chinese words",
+  "bin": "exec.js",
   "main": "index.js",
   "engines": {
     "node": ">=4.2.4"
